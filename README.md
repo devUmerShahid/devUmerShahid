@@ -79,56 +79,6 @@ Full-Stack Developer based in Islamabad, Pakistan, building scalable web applica
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devUmerShahid&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=dfe2eb" width="45%" alt="Top Languages"/>
 </div>
 
-<br/>
-
-### `// FEATURED PROJECTS`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🟦 Social Pulse** <sub>(in progress)</sub>
-Full-stack social media platform with JWT auth, a Prisma/PostgreSQL relational schema, a React Query-powered feed, follow system, and Socket.IO real-time updates (live posts, likes, comments, trends).
-
-`React` `TypeScript` `Vite` `Node.js` `Express` `PostgreSQL` `Prisma` `Socket.IO`
-
-[`↗ GitHub`](https://github.com/devUmerShahid)
-
-</td>
-<td width="50%" valign="top">
-
-**🟦 TuneFlow**
-End-to-end MERN music streaming app — Node.js/Express REST API with MVC architecture, MongoDB schema design, and a React frontend integrating the Jamendo API for real-time streaming and playlist management.
-
-`React` `Redux Toolkit` `React Query` `Node.js` `Express` `MongoDB`
-
-[`↗ Live Demo`](#) · [`↗ GitHub`](https://github.com/devUmerShahid)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🟦 Guardo**
-Secure password manager with a real-time TypeScript + React dashboard, Firebase Authentication, Firestore real-time listeners, full CRUD, and a custom password-strength analytics engine.
-
-`React` `TypeScript` `Firebase Auth` `Firestore` `Tailwind CSS`
-
-[`↗ Live Demo`](#) · [`↗ GitHub`](https://github.com/devUmerShahid)
-
-</td>
-<td width="50%" valign="top">
-
-**🟦 OrangeSkyHR**
-Full-stack HR consultancy platform with a custom headless CMS, a secure role-based admin dashboard (Firebase Auth, Firestore, Cloudinary), and SSR/SSG for SEO-optimized pages.
-
-`Next.js 14` `Firebase` `Cloudinary` `Tailwind CSS` `Tiptap`
-
-[`↗ Live Site`](https://orangeskyhr.com/) · [`↗ GitHub`](https://github.com/devUmerShahid)
-
-</td>
-</tr>
-</table>
 
 <br/>
 
