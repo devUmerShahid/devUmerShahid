@@ -1,22 +1,158 @@
-# 💫 About Me:
-👋 Hi, I’m Umer Shahid<br><br>Software Engineer | MERN Stack Developer | React.js Specialist<br>I’m a software engineer with 1+ year of professional experience building production-grade web applications. I primarily work with React.js, JavaScript, REST APIs, and modern frontend architectures, and I have hands-on exposure to the MERN stack in real-world projects.<br>I enjoy writing clean, maintainable code, solving practical problems, and continuously improving my skills in fast-paced team environments.<br><br>🛠️ Tech Stack<br><br>Frontend<br>React.js, Next.js (basic)<br>JavaScript (ES6+), TypeScript<br>HTML5, CSS3, Tailwind CSS<br><br>Backend & Databases<br>Node.js, Express.js (working knowledge)<br>MongoDB, SQL (basic queries & integrations)<br>RESTful APIs<br><br>Tools & Practices<br>Git & GitHub<br>API Integration<br>Debugging & Performance Optimization<br>Agile / Team Collaboration<br><br>💼 Professional Experience<br>Software Developer — uExel Solutions<br><br>📌 What I’m Looking For<br>Junior / Software Engineer / Frontend / MERN Stack roles<br>On-site or hybrid opportunities (Lahore / Islamabad)<br>Teams that value learning, clean code, and growth<br><br>📂 Featured Projects<br><br>Selected projects demonstrating real-world React and MERN concepts.<br>(Check repositories for detailed READMEs, code structure, and commits.)<br><br>React-based dashboards<br><br>API-driven frontend modules<br><br>SaaS UI components<br><br>📫 Let’s Connect<br><br>GitHub: github.com/devUmerShahid<br><br>LinkedIn: linkedin.com/in/muhamad-umer-shahid<br><br>Email: devumer.shahid@gmail.com
+<div align="center">
 
+<img src="./assets/banner.svg" width="100%" alt="Muhammad Umer Shahid — Full-Stack Developer" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhamad-umer-shahid/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Umer Shahid) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devumer.shahid@gmail.com) 
+<br/>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=devUmerShahid&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=devUmerShahid&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=devUmerShahid&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![Email](https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00D9FF)](mailto:umershahid1260@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF)](https://linkedin.com/in/muhamad-umer-shahid)
+[![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF)](https://github.com/devUmerShahid)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=devUmerShahid&limit=5&theme=default&combine_all_yearly_contributions=true)
+<br/>
 
----
-[![](https://visitcount.itsvg.in/api?id=devUmerShahid&icon=0&color=0)](https://visitcount.itsvg.in)
+### `// ABOUT`
+
+Full-Stack Developer based in Islamabad, Pakistan, building scalable web applications with **React, Node.js, and WordPress**. Comfortable across the full stack — from pixel-perfect responsive UIs to REST APIs, relational and NoSQL databases, and AI-assisted development workflows.
+
+- 🔭 Currently building production SaaS features at **uExel Solutions**
+- 🌱 Currently building **Social Pulse**, a full-stack social platform (Prisma + PostgreSQL + Socket.IO)
+- 🤝 2 years of WordPress development experience — custom themes, plugins, and WooCommerce stores
+- ⚡ Uses AI coding tools (Cursor, GitHub Copilot, ChatGPT, Claude) daily to ship faster without cutting corners
+
+<br/>
+
+### `// TECH STACK`
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00D9FF)
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=00D9FF)
+![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&logoColor=00D9FF)
+![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=00D9FF)
+![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=00D9FF)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&logoColor=00D9FF)
+![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=00D9FF)
+![Redux](https://img.shields.io/badge/-Redux_Toolkit-0D1117?style=for-the-badge&logo=redux&logoColor=00D9FF)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=00D9FF)
+![Vite](https://img.shields.io/badge/-Vite-0D1117?style=for-the-badge&logo=vite&logoColor=00D9FF)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=00D9FF)
+![Express](https://img.shields.io/badge/-Express.js-0D1117?style=for-the-badge&logo=express&logoColor=00D9FF)
+![Prisma](https://img.shields.io/badge/-Prisma-0D1117?style=for-the-badge&logo=prisma&logoColor=00D9FF)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00D9FF)
+![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=00D9FF)
+![Firebase](https://img.shields.io/badge/-Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=00D9FF)
+
+**CMS & E-commerce**
+
+![WordPress](https://img.shields.io/badge/-WordPress-0D1117?style=for-the-badge&logo=wordpress&logoColor=00D9FF)
+![WooCommerce](https://img.shields.io/badge/-WooCommerce-0D1117?style=for-the-badge&logo=woocommerce&logoColor=00D9FF)
+
+**Tools & Workflow**
+
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&logoColor=00D9FF)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=00D9FF)
+![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&logoColor=00D9FF)
+![Postman](https://img.shields.io/badge/-Postman-0D1117?style=for-the-badge&logo=postman&logoColor=00D9FF)
+![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&logoColor=00D9FF)
+
+<br/>
+
+### `// GITHUB STATS`
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=devUmerShahid&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=dfe2eb&count_private=true" width="49%" alt="GitHub Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=devUmerShahid&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=dfe2eb&currStreakNum=dfe2eb&sideNums=dfe2eb&dates=8b9aa3" width="49%" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devUmerShahid&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=dfe2eb" width="45%" alt="Top Languages"/>
+</div>
+
+<br/>
+
+### `// FEATURED PROJECTS`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🟦 Social Pulse** <sub>(in progress)</sub>
+Full-stack social media platform with JWT auth, a Prisma/PostgreSQL relational schema, a React Query-powered feed, follow system, and Socket.IO real-time updates (live posts, likes, comments, trends).
+
+`React` `TypeScript` `Vite` `Node.js` `Express` `PostgreSQL` `Prisma` `Socket.IO`
+
+[`↗ GitHub`](https://github.com/devUmerShahid)
+
+</td>
+<td width="50%" valign="top">
+
+**🟦 TuneFlow**
+End-to-end MERN music streaming app — Node.js/Express REST API with MVC architecture, MongoDB schema design, and a React frontend integrating the Jamendo API for real-time streaming and playlist management.
+
+`React` `Redux Toolkit` `React Query` `Node.js` `Express` `MongoDB`
+
+[`↗ Live Demo`](#) · [`↗ GitHub`](https://github.com/devUmerShahid)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🟦 Guardo**
+Secure password manager with a real-time TypeScript + React dashboard, Firebase Authentication, Firestore real-time listeners, full CRUD, and a custom password-strength analytics engine.
+
+`React` `TypeScript` `Firebase Auth` `Firestore` `Tailwind CSS`
+
+[`↗ Live Demo`](#) · [`↗ GitHub`](https://github.com/devUmerShahid)
+
+</td>
+<td width="50%" valign="top">
+
+**🟦 OrangeSkyHR**
+Full-stack HR consultancy platform with a custom headless CMS, a secure role-based admin dashboard (Firebase Auth, Firestore, Cloudinary), and SSR/SSG for SEO-optimized pages.
+
+`Next.js 14` `Firebase` `Cloudinary` `Tailwind CSS` `Tiptap`
+
+[`↗ Live Site`](https://orangeskyhr.com/) · [`↗ GitHub`](https://github.com/devUmerShahid)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### `// EXPERIENCE`
+
+**Full-Stack Developer** · uExel Solutions (PVT) Ltd — Islamabad, Pakistan
+`Sep 2025 — Present`
+Building scalable React.js frontend modules and RESTful Node.js/Express.js APIs for two production SaaS platforms (uXL POS, uXL LMS) on the PERN stack.
+
+**Web Developer (Project-Based)** · WebPlaners — Islamabad, Pakistan
+`Jun 2024 — Nov 2025`
+Delivered custom WordPress websites for international clients — theme/plugin development, WooCommerce, and SEO-optimized, responsive builds.
+
+<br/>
+
+<div align="center">
+
+### `// LET'S CONNECT`
+
+Always open to interesting projects and collaborations.
+
+[![Email](https://img.shields.io/badge/-umershahid1260@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=00D9FF)](mailto:umershahid1260@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF)](https://linkedin.com/in/muhamad-umer-shahid)
+
+<sub>Built with precision · Islamabad, Pakistan</sub>
+
+</div>
