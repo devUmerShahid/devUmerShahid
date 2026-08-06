@@ -29,7 +29,6 @@ Full-Stack Developer based in Islamabad, Pakistan, building scalable web applica
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00D9FF)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=00D9FF)
-![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&logoColor=00D9FF)
 ![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=00D9FF)
 ![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=00D9FF)
 
@@ -62,7 +61,6 @@ Full-Stack Developer based in Islamabad, Pakistan, building scalable web applica
 
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&logoColor=00D9FF)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=00D9FF)
-![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&logoColor=00D9FF)
 ![Postman](https://img.shields.io/badge/-Postman-0D1117?style=for-the-badge&logo=postman&logoColor=00D9FF)
 ![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&logoColor=00D9FF)
 
